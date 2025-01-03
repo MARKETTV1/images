@@ -6,4 +6,4 @@ wget https://raw.githubusercontent.com/MARKETTV1/images/refs/heads/main/openspa-
 ## script for openspa archive
 
 
-wget https://raw.githubusercontent.com/MARKETTV1/images/refs/heads/main/openspa-8.4.003.sh -O - | /bin/sh
+wget https://raw.githubusercontent.com/MARKETTV1/images/refs/heads/main/openspa_archive.sh -O - | /bin/sh
