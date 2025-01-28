@@ -1,9 +1,9 @@
-## script for openspa current 
+## script for openspa-zero4k
 
-wget https://raw.githubusercontent.com/MARKETTV1/images/refs/heads/main/openspa_current.sh -O - | /bin/sh
+wget https://raw.githubusercontent.com/MARKETTV1/images_currents/refs/heads/main/openspa-zero4k.sh -O - | /bin/sh
 
-## script for openspa archive
+## script for openspa-uno4kse
 
-wget https://raw.githubusercontent.com/MARKETTV1/images/refs/heads/main/openspa_archive.sh -O - | /bin/sh
+wget https://raw.githubusercontent.com/MARKETTV1/images_currents/refs/heads/main/openspa-uno4kse.sh -O - | /bin/sh
 
 
